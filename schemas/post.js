@@ -45,8 +45,13 @@ export default {
     {
       name: 'body',
       title: 'Body',
-      type: 'blockContent'
+      type: 'string'
     }
+    // {
+    //   name: 'body',
+    //   title: 'Body',
+    //   type: 'blockContent'
+    // }
   ],
 
   preview: {
